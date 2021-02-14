@@ -1,0 +1,71 @@
+body {
+	background-color: #FBF3FA;
+	margin:0;
+	display: flex;
+	align-items:  center;
+	justify-content: center;
+	min-height: 100vh;
+}
+.container{
+	background-color: grey;
+	height: 40rem;
+	width: 30rem;
+	border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px black;
+	overflow: hidden;
+}
+.main{
+	height: 40px;
+	width: 100px;
+    margin-left: -3rem;
+    
+}
+.img{
+	height: 70px;
+	width: 70px;
+	box-shadow: 5px 5px 5px 5px #aaaaaa;
+	margin-left: 10px;
+}
+h5{
+	margin-left: 25px;
+	margin-top: 10px;
+}
+.skin{
+	height:11rem;
+	width: 85%;
+	background: linear-gradient(to right, pink 40%, pink 90%);
+	margin-left: 40px;
+	border-radius: 10px;
+}
+.head{
+    margin-left: 50px;
+	color:black;
+    font-size: 20px;
+    font-style: bold;
+}
+.lines{
+	margin-left: 50px;
+	color: black;
+	font-style: bold;
+}
+.button{
+	width: 15rem;
+	border-radius:20px;
+	margin-left: 5rem;
+	color: black;
+}
+.card1{
+  height: 15rem;
+  width: 90%;
+  margin-left: 25px;
+  
+}
+.heading1{
+	
+	margin-left: 20px;
+	font-size: 20px;
+	padding: 20px;
+}
+.rate {
+  color: orange;
+}
